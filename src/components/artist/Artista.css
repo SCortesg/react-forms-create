@@ -1,0 +1,28 @@
+.driver-content {
+  width: 100%;
+}
+
+.driver-content h1{
+  border: 1px groove gold;
+  text-align: center;
+  font-family: "Papyrus", "Copperplate", fantasy;
+  color: rgb(255, 225, 89);
+}
+
+.form-content {
+  display: flex;
+  font-family: "Papyrus", "Copperplate", fantasy;
+  justify-content: space-around;
+}
+
+.inputpage{
+  width: 398px;
+  height: 200px;
+  border: 1px solid rgba(255, 0, 0, 0.356);
+  color: black;
+  margin: 0 auto;
+  background-color: rgba(18, 27, 145, 0.753); 
+  opacity: 0.6;
+  margin-top: 1px;
+  border-radius: 10px;
+}

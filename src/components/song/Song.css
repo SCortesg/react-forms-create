@@ -1,0 +1,30 @@
+.form-content {
+  display: flex;
+  border-radius: 1px, 100%;
+  justify-content: flex-start;
+}
+
+.car-content {
+  width: 100%;
+  margin-top: 10px;
+  
+}
+
+.car-content h1{
+  border: 1px groove gold;
+  text-align: center;
+  font-family: "Papyrus", "Copperplate", fantasy;
+  color: rgb(255, 225, 89);
+}
+
+.inputpage{
+  width: 398px;
+  height: 200px;
+  border: 1px solid rgba(255, 0, 0, 0.356);
+  color: black;
+  margin: 0 auto;
+  background-color: rgba(18, 27, 145, 0.753); 
+  opacity: 0.6;
+  margin-top: 1px;
+  border-radius: 10px;
+}
